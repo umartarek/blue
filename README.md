@@ -1,1 +1,7 @@
-# blue
+## Blue
+
+Blue Theme
+
+#### License
+
+mit
